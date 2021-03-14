@@ -1,0 +1,9 @@
+D:\KULIAH\Teknik Informatika\Semester 5\Komputasi Ilmiah\Metodologi Penelitian\Pertemuan6\TugasMetoPelP6\MetopelP6\bin\Debug\MetopelP6.exe
+D:\KULIAH\Teknik Informatika\Semester 5\Komputasi Ilmiah\Metodologi Penelitian\Pertemuan6\TugasMetoPelP6\MetopelP6\bin\Debug\MetopelP6.pdb
+D:\KULIAH\Teknik Informatika\Semester 5\Komputasi Ilmiah\Metodologi Penelitian\Pertemuan6\TugasMetoPelP6\MetopelP6\obj\Debug\MetopelP6.csprojAssemblyReference.cache
+D:\KULIAH\Teknik Informatika\Semester 5\Komputasi Ilmiah\Metodologi Penelitian\Pertemuan6\TugasMetoPelP6\MetopelP6\obj\Debug\MetopelP6.Form1.resources
+D:\KULIAH\Teknik Informatika\Semester 5\Komputasi Ilmiah\Metodologi Penelitian\Pertemuan6\TugasMetoPelP6\MetopelP6\obj\Debug\MetopelP6.Properties.Resources.resources
+D:\KULIAH\Teknik Informatika\Semester 5\Komputasi Ilmiah\Metodologi Penelitian\Pertemuan6\TugasMetoPelP6\MetopelP6\obj\Debug\MetopelP6.csproj.GenerateResource.cache
+D:\KULIAH\Teknik Informatika\Semester 5\Komputasi Ilmiah\Metodologi Penelitian\Pertemuan6\TugasMetoPelP6\MetopelP6\obj\Debug\MetopelP6.csproj.CoreCompileInputs.cache
+D:\KULIAH\Teknik Informatika\Semester 5\Komputasi Ilmiah\Metodologi Penelitian\Pertemuan6\TugasMetoPelP6\MetopelP6\obj\Debug\MetopelP6.exe
+D:\KULIAH\Teknik Informatika\Semester 5\Komputasi Ilmiah\Metodologi Penelitian\Pertemuan6\TugasMetoPelP6\MetopelP6\obj\Debug\MetopelP6.pdb
